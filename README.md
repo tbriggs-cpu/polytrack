@@ -10,4 +10,4 @@ Credit to cgolden15 for figuring this out
 
 
 
-Ps: another step is to click on the settings gear at the top right where it says about me and click the check next to "Use your GitHub pages website
+Ps: another step is to click on the settings gear at the top right where it says about me and click the check next to "Use your GitHub pages website"

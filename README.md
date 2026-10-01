@@ -1,2 +1,9 @@
 # Polytrack
-Polytrack is a racing game based off of Trackmania. The game is developed by Kodub and is active on Itch.io. This is version 0.4 of Polytrack, and new updates will not be posted because I am lazy.
+How to do this in case this link is blocked.
+
+
+Fork this repo, and open it. Open the repo settings menu and navigate down the the "Pages" tab. Once there, change the Source option to the main branch. A blue box will appear saying that your page is waiting to be published. After about 15-90 seconds, the game will be avalible to play at the url it displays.
+
+
+
+Credit to cgolden15 for figuring this out
